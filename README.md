@@ -15,6 +15,4 @@ This is a maven project, the command to compile the project is: mvn clean instal
 
 The jar file will be created in target directory.
 
-The command to run the jar file is:
-
-java -jar SafelyRemoveUsbDrive-1.0-SNAPSHOT.jar
+The command to run the jar file is: java -jar SafelyRemoveUsbDrive-1.0-SNAPSHOT.jar
